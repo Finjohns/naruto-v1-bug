@@ -4,16 +4,16 @@
 
 require("./all/module")
 global.owner = "254784320958" 
-global.namaCreator = "єdnut hímsєlf" 
+global.namaCreator = "Jinwiil hímsєlf" 
 global.autoJoin = false
-global.antilink = false 
+global.antilink = true 
 global.versisc = '1.0' 
 global.codeInvite = ""
 global.isLink = ' ' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
 global.packname = "naruto bot" 
-global.author = "YT :Ednut001" 
+global.author = "YT : Jinwiil001" 
 global.jumlah = "5" 
 global.namabot = "Naruto Bot crash" 
 let file = require.resolve(__filename)
