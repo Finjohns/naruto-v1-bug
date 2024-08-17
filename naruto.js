@@ -118,7 +118,7 @@ const isOwner = ownerNumber.includes(senderNumber) || isBot
       body: `𝒆𝒅𝒏𝒖𝒕`,
       thumbnailUrl: global.imageurl,
       sourceUrl: global.isLink,
-      mediaType: 'https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W',
+      mediaType: 'https://whatsapp.com/channel/0029VafrbsKG8l5EFBDDCy41',
       renderLargerThumbnail: true
       }
       }
